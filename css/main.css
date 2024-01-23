@@ -27,5 +27,26 @@ article {
 
 img {
     margin-top: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
+}
+
+body {
+    font-family: 'Poppins', serif;
+    font-size: 21px;
+}
+
+h1{
+    font-family: 'Poppins', serif;
+    font-size: 23px;  
+}
+
+.p_second{
+    font-family: 'ubuntu', serif;
+    font-size: 22px;
+line-height: 30px;
+}
+
+.div_side_images{
+    display: inline;
+    margin: 10px;
 }
