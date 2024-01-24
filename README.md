@@ -9,4 +9,4 @@ Work to learn and review typography inclusion in HTML using CSS resources:
 ### Author
 * Rodrigo Nascimento - Section B
 
-### repository name: nascimento_r_wd_hw1
+### repository name: Nascimento_Rodrigo_Project1
