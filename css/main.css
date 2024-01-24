@@ -76,45 +76,40 @@ p::first-letter {
 
 h1{
     font-family: 'Poppins', serif;
-    font-size: 23px;
+    font-size: 30px;
     font-weight: bolder; 
 }
 
 h2{
+    font-family: 'Poppins', serif;
+    font-size: 23px;
+    font-weight: bolder; 
+}
+
+.cabinhold_paragraph{
     font-family: 'cabinbold', arial, sans-serif;
-        font-size: 25px;
+        font-size: 21px;
         margin-top: 10px;
         margin-bottom: 20px;
         text-transform: uppercase;
 }
 
 
-h3 {
+p {
 
         font-family: 'Poppins', serif;
         font-size: 21px;
         font-weight: bolder; 
     }
 
-    .titiluim {
+    .titiluim_paragraph {
 
         font-family: 'Titillium Web', sans-serif;
         font-size: 21px;
         font-weight: bolder; 
     }
 
-
- h4 {
-    
-        font-family: 'cabinmedium', arial, sans-serif;
-        font-size: 21px;
-        margin-top: 10px;
-        margin-bottom: 20px;
-        text-transform: uppercase;
-        line-height: 35px;
-    }
-
-    h5 {
+    .ubuntu_paragraph {
     
         font-family: 'Ubuntu', sans-serif;
         font-size: 21px;
