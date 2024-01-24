@@ -35,23 +35,29 @@ body {
     font-size: 21px;
 }
 
-.p_second{
-    font-family: 'ubuntu', serif;
-    font-size: 21px;
-line-height: 30px;
-}
-
-.div_side_images{
+.side_images{
     display: inline;
     margin: 10px;
+
 }
 
-h1+p::first-letter {
+h3::first-letter {
 	color: white;
     background-color: rgb(229 116 45);
     border-radius: 5px;
     box-shadow: 3px 3px 0 rgb(0, 0, 0);
-    font-size: 60px;
+    font-size: 40px;
+    padding: 0px 6px;
+    margin-right: 8px;
+    float: left;
+}
+
+h4::first-letter {
+	color: white;
+    background-color: rgb(229 116 45);
+    border-radius: 5px;
+    box-shadow: 3px 3px 0 rgb(0, 0, 0);
+    font-size: 40px;
     padding: 0px 6px;
     margin-right: 8px;
     float: left;
@@ -74,23 +80,48 @@ h1{
     font-weight: bolder; 
 }
 
-.h1_fontface_cabinbold{
-    
-        font-family: 'cabinbold', arial, sans-serif;
-        font-size: 30px;
+h2{
+    font-family: 'cabinbold', arial, sans-serif;
+        font-size: 25px;
         margin-top: 10px;
         margin-bottom: 20px;
         text-transform: uppercase;
+}
+
+
+h3 {
+
+        font-family: 'Poppins', serif;
+        font-size: 21px;
+        font-weight: bolder; 
+    }
+
+    .titiluim {
+
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 21px;
+        font-weight: bolder; 
     }
 
 
-    .p_fontface_cabinmedium{
+ h4 {
     
         font-family: 'cabinmedium', arial, sans-serif;
         font-size: 21px;
         margin-top: 10px;
         margin-bottom: 20px;
         text-transform: uppercase;
+        line-height: 35px;
+    }
+
+    h5 {
+    
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 21px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        line-height: 35px;
+
     }
 
 
